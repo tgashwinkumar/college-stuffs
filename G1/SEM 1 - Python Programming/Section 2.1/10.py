@@ -1,5 +1,5 @@
 print('int' in dir(__builtins__))
-# False 
+# True
 
-print('int' in dir(__builtins__))
+print('import' in dir(__builtins__))
 # False
