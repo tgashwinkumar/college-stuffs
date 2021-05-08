@@ -1,3 +1,0 @@
-E:/College Studies/G1/SEM 2 - C porgramming/clion-trial/cmake-build-debug/CMakeFiles/clion_trial.dir
-E:/College Studies/G1/SEM 2 - C porgramming/clion-trial/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/College Studies/G1/SEM 2 - C porgramming/clion-trial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
